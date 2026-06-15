@@ -6,7 +6,6 @@ package ejercicio;
 
 /**
  *
- * @author Pacoep
  */
 public enum EstadoAlumno {
     INVITADO,

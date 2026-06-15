@@ -6,7 +6,6 @@ package ejercicio;
 
 /**
  *
- * @author Pacoep
  */
 public class Modulo {
 

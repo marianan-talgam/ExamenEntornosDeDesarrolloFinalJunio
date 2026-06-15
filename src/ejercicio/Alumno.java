@@ -6,7 +6,6 @@ package ejercicio;
 import java.time.LocalDate;
 /**
  *
- * @author Pacoep
  */
     
 
