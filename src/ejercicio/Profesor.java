@@ -7,8 +7,7 @@ package ejercicio;
 /**
  *
  */
-
-    import java.time.LocalDate;
+import java.time.LocalDate;
 import java.util.ArrayList;
 
 public class Profesor {
@@ -35,12 +34,11 @@ public class Profesor {
 
     @Override
     public String toString() {
-        return "Profesor{" +
-                "nombre='" + nombre + '\'' +
-                ", fechaNacimiento=" + fechaNacimiento +
-                ", instituto='" + instituto + '\'' +
-                ", modulosImpartidos=" + modulosImpartidos +
-                '}';
+        return "Profesor{"
+                + "nombre='" + nombre + '\''
+                + ", fechaNacimiento=" + fechaNacimiento
+                + ", instituto='" + instituto + '\''
+                + ", modulosImpartidos=" + modulosImpartidos
+                + '}';
     }
 }
-

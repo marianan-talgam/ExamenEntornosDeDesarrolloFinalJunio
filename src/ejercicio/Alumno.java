@@ -3,11 +3,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package ejercicio;
+
 import java.time.LocalDate;
+
 /**
  *
  */
-    
 
 public class Alumno {
 
@@ -29,12 +30,11 @@ public class Alumno {
 
     @Override
     public String toString() {
-        return "Alumno{" +
-                "nombre='" + nombre + '\'' +
-                ", fechaNacimiento=" + fechaNacimiento +
-                ", instituto='" + instituto + '\'' +
-                ", estado=" + estado +
-                '}';
+        return "Alumno{"
+                + "nombre='" + nombre + '\''
+                + ", fechaNacimiento=" + fechaNacimiento
+                + ", instituto='" + instituto + '\''
+                + ", estado=" + estado
+                + '}';
     }
 }
-

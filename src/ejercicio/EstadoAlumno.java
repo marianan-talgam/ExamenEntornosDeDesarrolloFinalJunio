@@ -10,5 +10,5 @@ package ejercicio;
 public enum EstadoAlumno {
     INVITADO,
     COMPETIDOR
-    
+
 }
