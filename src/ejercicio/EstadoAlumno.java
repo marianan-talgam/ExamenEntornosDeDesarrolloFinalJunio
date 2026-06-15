@@ -9,7 +9,7 @@ package ejercicio;
  * @author Pacoep
  */
 public enum EstadoAlumno {
-    INVITADA,
-    COMPETIDORA
+    INVITADO,
+    COMPETIDOR
     
 }
