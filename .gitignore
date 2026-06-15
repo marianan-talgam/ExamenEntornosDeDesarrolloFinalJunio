@@ -1,0 +1,15 @@
+# Archivos compilados
+*.class
+
+# Carpetas de compilación
+bin/
+target/
+out/
+
+# Configuración de IDEs
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
