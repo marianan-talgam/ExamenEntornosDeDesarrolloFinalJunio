@@ -11,4 +11,6 @@ Respuestas:
 
 8. No los archivos compilados no son tenidos en cuenta por git porque en el archivo .gitignore se indica que no se deben incluir los archivos compilados.
 
-9. hacemos una revision definitiva
+9. hacemos una revision definitiva.
+
+10. si se ha actualizado la rama principal, mediante un merge con mi rama ramaMNTG ya que ambas ramas comparten el mismo historial de commits.
