@@ -10,6 +10,8 @@ package ejercicio;
 import java.time.LocalDate;
 import java.util.ArrayList;
 
+//Comentario para el ejercicio 5 como revision inicial del examen
+
 public class Profesor {
 
     private String nombre;
@@ -29,7 +31,7 @@ public class Profesor {
     }
 
     public String concederEntrevista() {
-        return "Mis alumnos han trabajado duro para llegar hasta aquí.";
+        return "Mis alumnos han trabajado duro para llegar hasta aquï¿½.";
     }
 
     @Override

@@ -1,0 +1,8 @@
+Respuestas:
+
+4.inspecciona el proyecto
+4a. en el repositorio hay 4 ramas remotas que son main, master, ramaExamen y ramaPaco. Y en local existe 3 ramas locales que son ramaExamen, ramaPaco y ramaMNTG.
+
+4b. la rama principal es la ramaExamen.
+
+4c. las ramas mas evolucionadas son ramaExamen, ramaPaco y ramaMNTG porque son las que se marca como mas recientes y en total tiene 9 commits.
