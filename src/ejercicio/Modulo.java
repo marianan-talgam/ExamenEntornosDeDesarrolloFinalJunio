@@ -45,6 +45,6 @@ public class Modulo {
 
     @Override
     public String toString() {
-        return nombre + " (" + cicloFormativo + ", " + curso + "º)";
+        return nombre + " (" + cicloFormativo + ", " + curso + ")";
     }
 }

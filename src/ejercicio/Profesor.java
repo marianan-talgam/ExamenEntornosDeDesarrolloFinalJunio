@@ -5,7 +5,10 @@
 package ejercicio;
 
 /**
- *
+ *Clase Profesor para representar a un profesor en el programa.
+ * @author Pacoep
+ * @version 1.0
+ * @see https://github.com/PacoIESJM/ExamenEntornosProgramaMe
  */
 import java.time.LocalDate;
 import java.util.ArrayList;

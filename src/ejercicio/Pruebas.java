@@ -15,9 +15,9 @@ public class Pruebas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Declaración de variables
+        // Declaracion de variables
         Scanner reader = new Scanner(System.in);
-        System.out.println("Aquí se prueba");
+        System.out.println("Aqui se prueba");
     }
 
 }
