@@ -14,3 +14,5 @@ Respuestas:
 9. hacemos una revision definitiva.
 
 10. si se ha actualizado la rama principal, mediante un merge con mi rama ramaMNTG ya que ambas ramas comparten el mismo historial de commits.
+
+11. repositorio https://github.com/marianan-talgam/ExamenEntornosDeDesarrolloFinalJunio.git
