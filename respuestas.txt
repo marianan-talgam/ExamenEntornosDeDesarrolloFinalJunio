@@ -6,3 +6,5 @@ Respuestas:
 4b. la rama principal es la ramaExamen.
 
 4c. las ramas mas evolucionadas son ramaExamen, ramaPaco y ramaMNTG porque son las que se marca como mas recientes y en total tiene 9 commits.
+
+6. en la revision o commit llamado "acciones" solo se añadió la etiqueta @author: Pacoep como parte de la documentacion javadoc en las clases del proyecto.
