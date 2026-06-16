@@ -10,3 +10,5 @@ Respuestas:
 6. en la revision o commit llamado "acciones" solo se añadió la etiqueta @author: Pacoep como parte de la documentacion javadoc en las clases del proyecto.
 
 8. No los archivos compilados no son tenidos en cuenta por git porque en el archivo .gitignore se indica que no se deben incluir los archivos compilados.
+
+9. hacemos una revision definitiva
